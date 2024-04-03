@@ -1,5 +1,5 @@
 # instagrambootstrapclone
 
 
-https://github.com/AnilBASARAN/patika-front-end-week3-instagram-odevi/blob/main/assets/instagram.mp4
 
+![Video Title](https://youtu.be/IkYLme5DStQ)
