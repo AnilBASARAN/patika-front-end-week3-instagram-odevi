@@ -1,5 +1,3 @@
 # instagrambootstrapclone
 
-
-
-![Video Title](https://youtu.be/IkYLme5DStQ)
+![Insta Clone](https://youtu.be/IkYLme5DStQ)
